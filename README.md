@@ -1,1 +1,10 @@
 # CS250-Portfolio
+
+How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
+To interpret user needs and implement them into a program I woiuld have to listen to what the user is saying. I'll have to avoid distractions and focus soley on what is requested. Then I would make an outline of each request. User stories are most helpful with this process because they encapsulate exactly what each request hopes to achieve. They allow me to identify the needs, rate their importance, estimate how long it would take to complete each request, and helps me keep everything organized. 
+
+How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?
+With developing programs I feel its very important to start by understanding each request. Only then do I start the process of design. I personally like to use psuedocode to organize my thoughts. Then I would revise the psuedocode to add or remove ideas to improve my design. Then I feel comfortable enough to start with writing the code. If I have an idea that I feel is really great I typically start there, whether its at the beginning of the program or the end. Then I will build around that. I hope to effectively use user stories and scrum to keep myself organized. By rating the importance of the user requests I found it easier to find a starting point. I also hope to be able to organize sprints in the future. I like the idea of keeping things as simple as possible and completing the project in sections. 
+
+What does it mean to be a good team member in software development?
+I feel that to be a good team member in software development you have to be a great communicator. Everyone has strengths and weaknesses. However, weaknesses can be overcame by a team that communicates effectively. I also feel that communication is the driving force behind constructive feedback. Being able to provide feedback to the team in a positive way can only help with completing a project successfully. 
